@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDk1NjY2NDE5ODA0MDEyNTkz.DpF39g.ghiieZ9MB2c6m45KKaT7JtS9Rwg
+owner=495513603160408065
+prefix=.t
+game=Server Cher.
 stayinchannel=true
 songinstatus=true
